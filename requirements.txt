@@ -1,0 +1,7 @@
+streamlit==1.28.0
+openai
+selenium
+webdriver-manager
+beautifulsoup4
+pandas
+tqdm
